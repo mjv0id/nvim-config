@@ -4,9 +4,9 @@ simple neovim setup for coding, with file browsing, navigation and a minimalist 
 
 ### screenshots
 
-[[screenshots/homepage.png]]
+![homepage](screenshots/homepage.png)
 
-[[screenshots/code.png]]
+![code snippet](screenshots/code.png)
 
 > this theme was inspired by [Salar's neovim configuration](https://github.com/SalarAlo/neovim_configuration)
 
