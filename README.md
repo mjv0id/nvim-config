@@ -21,3 +21,5 @@ simple neovim setup for coding, with file browsing, navigation and a minimalist 
 - `nvim-web-devicons`: file icons (.py, .lua, .md, .c, etc)
 - `telescope.nvim`: file finder
 - `nvim-autopairs`: automatically closes autopais like (), [], {}, "", ''
+
+// *this setup is stil under construction, i might change or add something*
